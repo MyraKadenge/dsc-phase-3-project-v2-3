@@ -3,7 +3,6 @@
 
 Congratulations! You've made it through another _intense_ module, and now you're ready to show off your newfound Machine Learning skills!
 
-![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-3-project-v2-3/main/images/smart.gif)
 
 # Project overview
 Tanzania, the largest country in East Africa with a population of about 59 million, faces significant challenges in providing clean water, with approximately 47% of the population lacking access to safe drinking water. Many existing water points are either in need of repair or have failed altogether. This project aims to develop a classifier for two primary audiences: the Government of Tanzania and organizations focused on resource optimization. For the government, the classifier will identify patterns in non-functional wells and the factors contributing to their failure, helping improve the construction and maintenance of new wells to ensure their longevity. For organizations, the classifier will pinpoint non-functional and repair-needing wells, allowing for better resource allocation and maximizing the impact of efforts to provide clean water access.
@@ -75,8 +74,10 @@ status_group: The functionality status of the water pump (target variable). Cate
 The data was sourced from the Taarifa water dashboards which compiles information from the tanzania ministry of water. The dataset encompasses several features related to water pumps including the geographical location, organizations that contsruct them, and manage them, water quality and even the nearby population. The target feature which is the status group has three categories namely functional, non-functional and needs repair.
 
 An example of an analysis done is the region below
+
+
  <img src="https://github.com/MyraKadenge/dsc-phase-3-project-v2-3/blob/main/images/region%20image.png" alt="region" width="400"/>
- 
+
  The above image shows us how Iringa region has the highest number of functional wells.
 
 # Modeling
@@ -86,7 +87,8 @@ In our analysis we used classification models to categorize wells into two group
 From the three classification models used the XGBoost emerged as the most accurate model as it had an accuracy score of 80% surpassing th eother two models by a few points.
 Success of XGBoost: Given the prevalence of categorical data in our model, XGBoost's efficiency in handling such information contributed to its superior performance.
 
-![model](https://github.com/MyraKadenge/dsc-phase-3-project-v2-3/blob/main/images/model%20images.png)
+<img src="https://github.com/MyraKadenge/dsc-phase-3-project-v2-3/blob/main/images/model%20images.png" alt="model" width="400"/>
+
 
 # Conclusion
 In conclusion, 
