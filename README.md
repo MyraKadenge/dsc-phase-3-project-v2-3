@@ -87,8 +87,7 @@ In our analysis we used classification models to categorize wells into two group
 From the three classification models used the XGBoost emerged as the most accurate model as it had an accuracy score of 80% surpassing th eother two models by a few points.
 Success of XGBoost: Given the prevalence of categorical data in our model, XGBoost's efficiency in handling such information contributed to its superior performance.
 
-![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-3-project-v2-3/main/images/model images.png)
-
+![model](https://github.com/MyraKadenge/dsc-phase-3-project-v2-3/blob/main/images/model%20images.png)
 
 # Conclusion
 In conclusion, 
