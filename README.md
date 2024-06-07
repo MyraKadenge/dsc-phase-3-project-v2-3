@@ -1,7 +1,7 @@
 
 # Tanzania water well project
 
-Congratulations! You've made it through another _intense_ module, and now you're ready to show off your newfound Machine Learning skills!
+<img src="https://github.com/MyraKadenge/dsc-phase-3-project-v2-3/blob/main/images/Well-Water-Homeowner.jpg" alt="water" width="400"/>
 
 
 # Project overview
