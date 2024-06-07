@@ -75,9 +75,8 @@ status_group: The functionality status of the water pump (target variable). Cate
 The data was sourced from the Taarifa water dashboards which compiles information from the tanzania ministry of water. The dataset encompasses several features related to water pumps including the geographical location, organizations that contsruct them, and manage them, water quality and even the nearby population. The target feature which is the status group has three categories namely functional, non-functional and needs repair.
 
 An example of an analysis done is the region below
-
-! [region] (/Users/myraminayokadenge/Desktop/moringadsfolder/phase3/project/dsc-phase-3-project-v2-3/images/region image.png)
-
+ <img src="https://github.com/MyraKadenge/dsc-phase-3-project-v2-3/blob/main/images/region%20image.png" alt="region" width="400"/>
+ 
  The above image shows us how Iringa region has the highest number of functional wells.
 
 # Modeling
